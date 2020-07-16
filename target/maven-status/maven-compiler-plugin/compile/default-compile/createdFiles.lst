@@ -1,0 +1,12 @@
+input/IParser.class
+entities/Beverage.class
+entities/Outlet.class
+coffeemachine/CoffeeMachineImpl.class
+coffeemachine/CoffeeMachineAppUtil.class
+inventory/ItemInventory.class
+entities/Machine.class
+input/InputParser.class
+inventory/Inventory.class
+coffeemachine/CoffeeMachine.class
+coffeemachine/CoffeeMachineApp.class
+input/InputWrapper.class
